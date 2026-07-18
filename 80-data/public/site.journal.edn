@@ -1,0 +1,5 @@
+[["randstad-site-1" :site/url "https://www.randstad.com" 1 :add]
+ ["randstad-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["randstad-site-1" :site/http-status 200 1 :add]
+ ["randstad-site-1" :site/title "The global leader in the HR services industry | Randstad" 1 :add]
+ ["randstad-site-1" :site/description "Randstad is the global leader in the HR services industry. By combining our passion for people with the power of today’s intelligent machines, we support people and organizations in realizing their true potential. Learn more about our company." 1 :add]]
